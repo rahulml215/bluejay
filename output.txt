@@ -1,0 +1,19 @@
+Employees who have worked for 7 consecutive days:
+
+Employees who have less than 10 hours between shifts but more than 1 hour:
+CEreira Jr, JEse has less than 10 hours but more than 1 hour between shifts.
+CaMaXaWE, CeghaW has less than 10 hours but more than 1 hour between shifts.
+CaMaXaWE, CeghaW has less than 10 hours but more than 1 hour between shifts.
+De Xa Cerda, IgWaciE has less than 10 hours but more than 1 hour between shifts.
+DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours but more than 1 hour between shifts.
+GrACfieXd, CErWeXiAs has less than 10 hours but more than 1 hour between shifts.
+HaCiXMEW, DeaWMe DevEW has less than 10 hours but more than 1 hour between shifts.
+MraW, WiXXiaC Ha has less than 10 hours but more than 1 hour between shifts.
+MraW, WiXXiaC Ha has less than 10 hours but more than 1 hour between shifts.
+REdrigAez, GraWdEW AWgeX has less than 10 hours but more than 1 hour between shifts.
+Xee, XaCar has less than 10 hours but more than 1 hour between shifts.
+Xee, XaCar has less than 10 hours but more than 1 hour between shifts.
+Xee, XaCar has less than 10 hours but more than 1 hour between shifts.
+
+Employees who have worked for more than 14 hours in a single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S has worked for more than 14 hours in a single shift on 2023-09-17 04:00:01.
